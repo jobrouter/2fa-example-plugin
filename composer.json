@@ -1,0 +1,7 @@
+{
+    "name": "jobrouter/2fa-example-plugin",
+    "license": "MIT",
+    "require": {
+        "jobrouter/authentication-factor-api": "5.2.0-alpha.1"
+    }
+}

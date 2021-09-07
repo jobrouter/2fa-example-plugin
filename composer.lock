@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c7f7db131d5c71be71af7340223eb9e3",
+    "packages": [
+        {
+            "name": "jobrouter/authentication-factor-api",
+            "version": "5.2.0-alpha.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jobrouter/authentication-factor-api.git",
+                "reference": "96984a5ce4f8d21534edc881d4c4835490974a4a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jobrouter/authentication-factor-api/zipball/96984a5ce4f8d21534edc881d4c4835490974a4a",
+                "reference": "96984a5ce4f8d21534edc881d4c4835490974a4a",
+                "shasum": ""
+            },
+            "require-dev": {
+                "ext-json": "*"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "api.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "API stubs for developing a plugin that provides a 2FA authentication factor in JobRouter®",
+            "support": {
+                "source": "https://github.com/jobrouter/authentication-factor-api/tree/v5.2.0-alpha.1"
+            },
+            "time": "2021-09-07T13:19:06+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "jobrouter/authentication-factor-api": 15
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.1.0"
+}
